@@ -1,6 +1,7 @@
 *.class
 *.log
 
+.idea
 .hg/
 # sbt specific
 .cache/
